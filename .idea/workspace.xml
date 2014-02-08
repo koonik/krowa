@@ -44,7 +44,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/polls/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="169" selection-end="169" vertical-scroll-proportion="0.41379312" vertical-offset="0" max-vertical-offset="360">
+            <state line="18" column="36" selection-start="640" selection-end="640" vertical-scroll-proportion="0.79310346" vertical-offset="117" max-vertical-offset="558">
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -64,7 +64,7 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="64" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="936">
+            <state line="20" column="49" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -116,8 +116,8 @@
         <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/templates/polls/vote.html" />
         <option value="$PROJECT_DIR$/templates/polls/detail.html" />
-        <option value="$PROJECT_DIR$/mysite/polls/views.py" />
         <option value="$PROJECT_DIR$/templates/polls/results.html" />
+        <option value="$PROJECT_DIR$/mysite/polls/views.py" />
         <option value="$PROJECT_DIR$/mysite/polls/urls.py" />
       </list>
     </option>
@@ -527,7 +527,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="576" y="112" width="792" height="433" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -648,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="64" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/polls/results.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="43" selection-start="621" selection-end="621" vertical-scroll-proportion="-6.851852" vertical-offset="193" max-vertical-offset="522">
@@ -662,9 +655,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="49" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/polls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="169" selection-end="169" vertical-scroll-proportion="0.41379312" vertical-offset="0" max-vertical-offset="360">
+        <state line="18" column="36" selection-start="640" selection-end="640" vertical-scroll-proportion="0.79310346" vertical-offset="117" max-vertical-offset="558">
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
